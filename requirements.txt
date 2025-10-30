@@ -2,3 +2,4 @@ plotly
 dash
 gunicorn
 pandas
+aiohttp
